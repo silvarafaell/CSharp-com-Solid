@@ -1,4 +1,4 @@
-### Desenvolvendo sua aplicação com C# usando SOLID
+### Curso da DIO - Desenvolvendo sua aplicação com C# usando SOLID
 
 - Solid - Principios de Design e Design Patterns
 
